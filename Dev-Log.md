@@ -2,4 +2,4 @@
 
 ---**07.10.2021**---
 - added **ledscreen**
-- fixed **esx_vehicleshop**
+- fixxed **esx_vehicleshop**
